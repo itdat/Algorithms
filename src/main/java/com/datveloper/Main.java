@@ -1,10 +1,9 @@
 package com.datveloper;
 
-import com.datveloper.crackingthecodinginterview.OneAway;
+import com.datveloper.crackingthecodinginterview.StringCompression;
 
 public class Main {
     public static void main(String[] args) {
-        boolean oneEditAway = OneAway.oneEditAway("Bale", "Bale");
-        System.out.println(oneEditAway);
+        System.out.println(StringCompression.compress("nguyennnnnnnntuannndattttttttttt"));
     }
 }

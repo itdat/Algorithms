@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93dc0fc7-277c-48ef-9c55-1474a00e3c5d" name="Changes" comment="add: PalindromePermutation">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/datveloper/crackingthecodinginterview/OneAway.java" afterDir="false" />
+    <list default="true" id="93dc0fc7-277c-48ef-9c55-1474a00e3c5d" name="Changes" comment="add: OneAway">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/datveloper/crackingthecodinginterview/StringCompression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/datveloper/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/datveloper/Main.java" afterDir="false" />
     </list>
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694723191449</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add: OneAway">
+      <created>1694725626074</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694725626074</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,25 +106,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add: PalindromePermutation" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: PalindromePermutation" />
+    <MESSAGE value="add: OneAway" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: OneAway" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/datveloper/Main.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/datveloper/crackingthecodinginterview/OneAway.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/datveloper/crackingthecodinginterview/OneAway.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="15" />
+          <line>7</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
